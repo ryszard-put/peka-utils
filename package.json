@@ -1,0 +1,25 @@
+{
+  "name": "peka-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryszard-put/peka-utils.git"
+  },
+  "author": "Ryszard Poznanski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryszard-put/peka-utils/issues"
+  },
+  "homepage": "https://github.com/ryszard-put/peka-utils#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
